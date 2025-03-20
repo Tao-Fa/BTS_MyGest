@@ -1,7 +1,7 @@
 #!/bin/bash
-
+clear
 while true; do
-    clear
+echo ""
     echo "===== Menu ====="
     echo "1. testIP.sh"
     echo "2. testTCP.sh"
@@ -13,13 +13,17 @@ while true; do
 
     case $choix in
         1) 
-            ./testIP.sh ;;
+            ./testIP.sh
+	 ;;
         2) 
-            ./testTCP ;;
+            ./testTCP.sh
+	 ;;
         3)
-            ./generTxt.sh ;;
+            ./generTxt.sh
+	 ;;
         4)
-            ./checkValid ;;
+            ./checkValid.sh
+	 ;;
         5) 
             echo "Au revoir !"
             exit 0 ;;
