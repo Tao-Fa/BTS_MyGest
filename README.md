@@ -24,5 +24,8 @@ Il centralise plusieurs outils en un seul menu pour faciliter leur utilisation.
 
 # Sources
 
-- **  **Base du projet** : [Pédagogeek](https://www.pedagogeek.fr/public/)
-- **  **Aide exterieur** : [Chatgpt](https://chatgpt.com)
+-   **Base du projet** : [Pédagogeek](https://www.pedagogeek.fr/public/)
+-   **Aide exterieur** : [Chatgpt](https://chatgpt.com)
+
+
+  Auteur Balens Matthis
